@@ -11,3 +11,5 @@ Requirtment Cloud:
   5. LARAVEL
   6. 000WEBHOST
   7. etc
+
+![Cloud Architecture](https://github.com/bangkit-2023-capstone/CC-WasteWizard/blob/main/Cloud%20Computing%20Architecture.drawio.png)
